@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="zxx">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>The Plaza - eCommerce Template</title>
+<!-- TemplateEndEditable -->
+<meta charset="UTF-8">
+	<meta name="description" content="The Plaza eCommerce Template">
+	<meta name="keywords" content="plaza, eCommerce, creative, html">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<!-- Favicon -->   
+	<link href="../imagenes/favicon.ico" rel="shortcut icon"/>
+
+	<!-- Google Fonts -->
+	<link href="https://fonts.googleapis.com/css?family=Raleway:400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+	<!-- Stylesheets -->
+	<!-- <link rel="stylesheet" href="css/bootstrap.min.css"/> -->
+	<link href="../css/bootstrap-4.4.1.css" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" href="../theplaza-master/css/font-awesome.min.css"/>
+	<link rel="stylesheet" href="../theplaza-master/css/owl.carousel.css"/>
+	<link rel="stylesheet" href="../theplaza-master/css/style.css"/>
+	<link rel="stylesheet" href="../theplaza-master/css/animate.css"/>
+<!--[if lt IE 9]>
+	  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+	  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	<![endif]-->
+
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<body>
+	<!-- Page Preloder -->
+	<div id="preloder">
+		<div class="loader"></div>
+	</div>
+	
+	<!-- Header section -->
+	<header class="header-section">
+		<div class="container-fluid">
+			<!-- logo -->
+			<div class="site-logo">
+				<img src="../imagenes/logopngcolor2.png" alt="logo">
+			</div>
+			<!-- responsive -->
+			<div class="nav-switch">
+				<i class="fa fa-bars"></i>
+			</div>
+			<div class="header-right">
+				<a href="../theplaza-master/cart.html" class="card-bag"><img src="../theplaza-master/img/icons/bag.png" alt=""><span>2</span></a>
+				<a href="#" class="search"><img src="../theplaza-master/img/icons/search.png" alt=""></a>
+			</div>
+			<!-- site menu -->
+			<ul class="main-menu">
+				
+				<li><a href="#"><!-- TemplateBeginEditable name="articulos" -->articulos<!-- TemplateEndEditable --></a></li>
+				<li><a href="#"><!-- TemplateBeginEditable name="Eco Info" -->Eco Info<!-- TemplateEndEditable --></a></li>
+				<li><a href="#"><!-- TemplateBeginEditable name="sobreus" -->sobreus<!-- TemplateEndEditable --></a></li>
+				<li><a href="#"><!-- TemplateBeginEditable name="contacto" -->contacto<!-- TemplateEndEditable --></a></li>
+				<li><a href="../theplaza-master/contact.html"><!-- TemplateBeginEditable name="inicio" -->inicio<!-- TemplateEndEditable --></a></li>
+			</ul>
+		</div>
+	</header>
+	<!-- Header section end -->
+
+
+	<!-- Hero section -->
+	<section class="hero-section set-bg" data-setbg=>
+		
+	</section>
+	<!-- Hero section end -->
+
+	
+	<!-- Intro section -->
+	<section class="intro-section spad pb-0">
+		<div class="section-title">
+			<div class="container-fluid"><!-- TemplateBeginEditable name="EditRegion14" -->EditRegion14<!-- TemplateEndEditable --></div>
+			<h2></h2>
+		  <!-- TemplateBeginEditable name="EditRegion7" -->
+			<p></p>
+	    <!-- TemplateEndEditable --> </div>
+	  <div class="container-fluid"><!-- TemplateBeginEditable name="EditRegion8" -->EditRegion8<!-- TemplateEndEditable --></div>
+    </section>
+	<!-- Intro section end -->
+
+
+	<!-- Featured section -->
+	<div class="featured-section spad">
+		<div class="container">
+		  <div class="container-fluid"><!-- TemplateBeginEditable name="EditRegion13" -->EditRegion13<!-- TemplateEndEditable --></div>
+		</div>
+</div>
+			
+	<!-- Featured section end -->
+
+
+	<!-- Product section -->
+	<section class="product-section spad">
+		<div class="container">
+			<ul class="product-filter controls">
+			  <div class="container-fluid"><!-- TemplateBeginEditable name="EditRegion11" -->EditRegion11<!-- TemplateEndEditable --></div>
+            </ul>
+			<div class="row" id="product-filter"><!-- TemplateBeginEditable name="EditRegion12" -->EditRegion12<!-- TemplateEndEditable --></div>
+					
+	
+	<!-- Product section end -->
+
+
+	<!-- Blog section -->	
+	
+	<!-- Blog section end -->	
+
+
+	<!-- Footer top section -->	
+	<section class="footer-top-section home-footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-3 col-md-8 col-sm-12">
+					<div class="footer-widget about-widget">
+						<img src="../imagenes/logopngblanco.png" class="footer-logo" alt="">
+						<p>Diseño de camisas completamente personalizados.</p>
+						<div class="cards">
+							
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-2 col-md-4 col-sm-6">
+					<div class="footer-widget">
+						<h6 class="fw-title">Inicio&nbsp;</h6>
+						<ul>
+						  
+						</ul>
+					</div>
+				</div>
+				<div class="col-lg-2 col-md-4 col-sm-6">
+					<div class="footer-widget">
+						<h6 class="fw-title">Artículos&nbsp;</h6>
+						<ul>
+						  <li><a href="#">Todos</a></li>
+							<li><a href="#">Hombre</a></li>
+							<li><a href="#">Mujer</a></li>
+							
+						</ul>
+					</div>
+				</div>
+				<div class="col-lg-2 col-md-4 col-sm-6">
+					<div class="footer-widget">
+						<h6 class="fw-title">Eco Info</h6>
+						<ul>
+							<li><a href="#">Sustentabilidad</a></li>
+							<li><a href="#">Riciclaje</a></li>
+							<li><a href="#">Parábola del Colibrí</a></li>
+							
+						</ul>
+					</div>
+				</div>
+				<div class="col-lg-2 col-md-4 col-sm-6">
+					<div class="footer-widget">
+						<h6 class="fw-title">Contacto</h6>
+						<div class="text-box">
+							<p>Teléfono: +505 7752 7434 </p>
+							<p>Jinotepe, Carazo </p>
+							
+							<p>Florestaoficial@gmail.com</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- Footer top section end -->	
+
+		<!-- Footer section -->
+	<footer class="footer-section">
+		<div class="container">
+			<p class="copyright">
+<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+Copyright&copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+</p>
+		</div>
+	</footer>
+	<!-- Footer section end -->
+
+
+	<!--====== Javascripts & Jquery ======-->
+	<script src="../theplaza-master/js/jquery-3.2.1.min.js"></script>
+    <!-- <script src="js/bootstrap.min.js"></script> -->
+<script src="../js/bootstrap-4.4.1.js"></script>
+    <script src="../theplaza-master/js/owl.carousel.min.js"></script>
+	<script src="../theplaza-master/js/mixitup.min.js"></script>
+	<script src="../theplaza-master/js/sly.min.js"></script>
+	<script src="../theplaza-master/js/jquery.nicescroll.min.js"></script>
+	<script src="../theplaza-master/js/main.js"></script>
+    </body>
+</html>
